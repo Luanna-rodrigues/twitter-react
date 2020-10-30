@@ -1,13 +1,13 @@
 # twitter-react
 
-###Start backend
+#Start backend
 
 ```
  npm install
  npm start
  ```
  
- ###Start frontend
+ #Start frontend
  
  ```
  yarn
