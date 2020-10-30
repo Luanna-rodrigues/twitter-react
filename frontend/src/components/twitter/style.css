@@ -1,0 +1,28 @@
+.body-twitter {
+    margin-top: 5%;
+}
+
+textarea {
+    resize: none;
+    color: white;
+    height: 70px;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.button-allign {
+    position: absolute; 
+    right: 0;
+}
+
+li {
+    border: 1px solid;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 2%;
+}
+
+.Mui-disabled {
+    background-color: blue!important;
+    color: white!important;
+}
